@@ -1,6 +1,6 @@
 ---
 title: Categories
-layout: categories
+layout: Anasayfa
 excerpt: "Category index"
 aside: true
 ---
